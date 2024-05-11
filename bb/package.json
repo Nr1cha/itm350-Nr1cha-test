@@ -1,0 +1,11 @@
+{
+  "name": "bb-package-name",
+  "version": "1.0.0",
+  "description": "first npm project for this class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
