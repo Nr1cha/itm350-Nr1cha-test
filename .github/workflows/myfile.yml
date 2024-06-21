@@ -9,7 +9,7 @@ on:
       - closed
 
 env:
-  REPO_NAME: Nr1cha/bb
+  REPO_NAME: nr1cha/cit350-nr1cha-bb
 
 jobs:
   if_merged:
